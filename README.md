@@ -1,2 +1,1 @@
-# CognoRise-InfoTech
-UI/UX Internship
+UI UX Design 
